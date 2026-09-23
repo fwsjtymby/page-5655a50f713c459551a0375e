@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "0d1857e7ae50c6ef5f72e4e3",
+  "owner": "fwsjtymby",
+  "repo": "page-5655a50f713c459551a0375e",
+  "title": "兔子云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5655a50f713c459551a0375e",
+      "a": "兔子云",
+      "b": "稳定全球clash加速器",
+      "entity": "兔子云",
+      "brand": "兔子云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "71dc6590f7acfdab445b0b21b44830c08f26863674b470a02baf7f8f0e031e9a",
+      "content": {
+        "primary_entity": "兔子云",
+        "keyword1": "兔子云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择 Clash 客户端，手机、桌面与路由器各有对应版本。",
+          "AI_CLIENTS_TITLE": "选择适配客户端",
+          "AI_CLOSING_TEXT": "选好套餐后下载客户端，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "从套餐到连接",
+          "AI_DESCRIPTION": "，兔子云提供基础版、旗舰版与团队版三档套餐，月付从 ¥15 起、年付更划算。旗舰版支持 5 台设备与 IPLC 专线，适合多设备日常使用；团队版支持 20 台设备与定制路由，适合小型团队。按设备系统选择 Clash 客户端，导入订阅链接后即可连接全球节点。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型三个角度快速理解套餐差异。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、旗舰版 300GB、团队版 1000GB，按实际用量选择即可。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台同时在线，覆盖个人到团队场景。",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线游戏优化，团队版含 VIP 高带宽节点，按需求升级。",
+          "AI_FEATURE_TITLE_1": "流量与周期",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "线路与权益",
+          "AI_GUIDE_INTRO": "从确认需求到完成订阅配置，三步即可开始使用。",
+          "AI_GUIDE_TITLE": "使用流程",
+          "AI_HERO_INTRO": "兔子云提供基础版、旗舰版与团队版三档订阅，月付从 ¥15 起，年付更划算。按设备数量与流量需求选择套餐，再依客户端文档导入订阅，即可连接全球节点使用。",
+          "AI_HERO_SUBTITLE": "三档套餐，按需选择",
+          "AI_HIGHLIGHT_1": "基础版月付 ¥15，含 100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版月付 ¥35，支持 5 台设备",
+          "AI_HIGHLIGHT_3": "团队版月付 ¥85，支持 20 台设备",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版均衡，团队版面向多设备与高流量需求。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先确认常用设备数量与每月大致流量，再对照三档套餐的流量与设备限制。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备数量、线路类型与订阅周期，确认符合日常使用需要。",
+          "AI_STEP_TEXT_3": "按设备系统下载对应 Clash 客户端，依照客户端文档导入订阅配置并连接节点。",
+          "AI_STEP_TITLE_1": "确认使用需求",
+          "AI_STEP_TITLE_2": "核对套餐适配",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "兔子云套餐速览",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。如果手机、电脑、平板都需要连接，建议按常用设备总数选择，旗舰版适合多数个人用户，团队版适合多人共用。",
+          "AI_FAQ_ANSWER_2": "月付灵活，按年付更划算。基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相当于全年一次付清，适合确定长期使用的用户；短期测试可以先选月付方案。",
+          "AI_FAQ_ANSWER_3": "流量用完后可升级到更高一档套餐，旗舰版每月 300GB、团队版每月 1000GB，根据日常视频、下载和远程办公的消耗量来选择即可，不必一次跳到最高档。",
+          "AI_FAQ_ANSWER_4": "订阅内容复制到客户端后会自动生成节点，常规做法是在客户端里粘贴订阅链接，保存并更新即可获取线路列表。不同客户端的界面名称不一样，按客户端文档操作就行。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含全节点原生流媒体解锁和 IPLC 专线优化，适合追剧与游戏；团队版提供 VIP 高带宽节点与定制路由，适合企业或多设备场景。只看基础浏览需求，基础版已经够用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "兔子云一份套餐能同时登录几台设备？",
+          "AI_FAQ_QUESTION_2": "月付和年付怎么选比较合适？",
+          "AI_FAQ_QUESTION_3": "流量不够用可以升级套餐吗？",
+          "AI_FAQ_QUESTION_4": "订阅链接怎么导入客户端使用？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版主要差别在哪里？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kq65j0qdd2wd6y.com",
+    "host": "xn--9kq65j0qdd2wd6y.com"
+  },
+  "file_hashes": {
+    "index.html": "a8d4e1d4829d6389f49a5b95726a8e9e494bc2f26f38797c68056457a0d98830",
+    "sitemap.xml": "5cb6c23e91df68e42649ae5b1169d57099a0067cf5f79db8d922e61339bbbb53",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a8b6b05c033f5a0d3bb732f5dce2eef497ed7e25027d349e0f69cc05a9c82f8a",
+    "robots.txt": "5d637205a9972e19de1019980cb61853d0140a2c8e735cb8e0a20dba7cc7d0d2",
+    "45e749d5013f85352cdb656f7be5426e.txt": "6a850037d78c9d4bc63d66a604c80ab452eafd4cff6ca4c0ba34477619b9d142"
+  },
+  "revision": "ab3d92956c6acab6877d8047194905745c10aacf5cac58f15136f5221efd669b"
+}
